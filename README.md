@@ -1,4 +1,7 @@
-# This repo is copied from https://github.com/avirmaux/lipEstimation and from the paper [Lipschitz Regularity of deep neural networks: analysis and efficient estimation](https://arxiv.org/abs/1805.10965)
+# SepLip
+
+### Note
+This repo is copied from https://github.com/avirmaux/lipEstimation and from the paper [Lipschitz Regularity of deep neural networks: analysis and efficient estimation](https://arxiv.org/abs/1805.10965)
 
 
 
