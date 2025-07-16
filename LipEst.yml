@@ -1,0 +1,4 @@
+name: LipEst
+channels:
+  - defaults
+prefix: /Users/peterzhu/opt/anaconda3/envs/LipEst
