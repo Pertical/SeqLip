@@ -1,4 +1,5 @@
 # Compute AlexNet 50 highest singular vectors for every convolutions
+
 import torch
 
 import numpy as np
